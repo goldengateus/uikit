@@ -1,0 +1,1 @@
+var uikit;!function(t){"use strict";var n=function(){function t(t,n){t.state("launch",{url:"/launch",name:"launch",templateUrl:"/templates/launch/launch.html",controller:"launchCtrl"}),n.otherwise("/launch")}return t}();t.config=n}(uikit||(uikit={}));

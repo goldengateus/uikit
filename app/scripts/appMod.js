@@ -1,0 +1,7 @@
+/// <reference path="../definations/angular.d.ts" />
+/// <reference path="../definations/angular-ui-router.d.ts" />
+/// <reference path="launchMod.ts" />
+'use strict';
+angular.module('uikit', ['ui.router', 'launch']).config(uikit.config);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNjcmlwdHMvYXBwTW9kLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLG9EQUFvRDtBQUNwRCw4REFBOEQ7QUFDOUQscUNBQXFDO0FBSWxDLFlBQVksQ0FBQztBQUNoQixPQUFPLENBQUMsTUFBTSxDQUFDLE9BQU8sRUFBQyxDQUFDLFdBQVcsRUFBQyxRQUFRLENBQUMsQ0FBQyxDQUFDLE1BQU0sQ0FBQyxLQUFLLENBQUMsTUFBTSxDQUFDLENBQUEiLCJmaWxlIjoic2NyaXB0cy9hcHBNb2QuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLy8gPHJlZmVyZW5jZSBwYXRoPVwiLi4vZGVmaW5hdGlvbnMvYW5ndWxhci5kLnRzXCIgLz5cbi8vLyA8cmVmZXJlbmNlIHBhdGg9XCIuLi9kZWZpbmF0aW9ucy9hbmd1bGFyLXVpLXJvdXRlci5kLnRzXCIgLz5cbi8vLyA8cmVmZXJlbmNlIHBhdGg9XCJsYXVuY2hNb2QudHNcIiAvPlxuXG5cblxuICAgJ3VzZSBzdHJpY3QnO1xuYW5ndWxhci5tb2R1bGUoJ3Vpa2l0JyxbJ3VpLnJvdXRlcicsJ2xhdW5jaCddKS5jb25maWcodWlraXQuY29uZmlnKVxuXG5cblxuXG4iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0=

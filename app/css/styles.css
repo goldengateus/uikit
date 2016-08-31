@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 12px;
+}
+.appheader {
+  background: #000 url('../images/mphasis1.png') no-repeat 0px 0px;
+  height: 100px;
+  width: 100%;
+  float: left;
+}
+.appheader h1 {
+  text-align: center;
+  color: #3198D1;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQUssVUFBQTtFQUFXLFNBQUE7RUFBVyxvQkFBbUIsdUNBQW5CO0VBQTRELGVBQUE7O0FBQ3ZGO0VBQ0EscUJBQW9CLDJDQUFwQjtFQUFpRSxhQUFBO0VBQWUsV0FBQTtFQUFhLFdBQUE7O0FBRDdGLFVBRUk7RUFDRyxrQkFBQTtFQUNDLGNBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5e3BhZGRpbmc6MDsgbWFyZ2luOiAwOyBmb250LWZhbWlseTogQXJpYWwsXCJIZWx2ZXRpY2EgTmV1ZVwiLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTJweDt9XG4uYXBwaGVhZGVye1xuYmFja2dyb3VuZDojMDAwIHVybCgnLi4vaW1hZ2VzL21waGFzaXMxLnBuZycpIG5vLXJlcGVhdCAwcHggMHB4OyBoZWlnaHQ6IDEwMHB4OyB3aWR0aDogMTAwJTsgZmxvYXQ6IGxlZnQ7XG4gICAgaDF7XG4gICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBjb2xvcjogIzMxOThEMTtcbiAgICB9XG59Il0sImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */

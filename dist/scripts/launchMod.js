@@ -1,0 +1,1 @@
+"use strict";angular.module("launch",[]).controller("launchCtrl",launch.launchCtrl);

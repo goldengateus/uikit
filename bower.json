@@ -1,0 +1,24 @@
+{
+  "name": "uikit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/goldengateus/uikit",
+  "authors": [
+    "Vikram Sohal <vikram.sohal@yahoo.com>"
+  ],
+  "description": "UI tool kit framework",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "font-awesome": "fontawesome#^4.6.3",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.3.1"
+  }
+}

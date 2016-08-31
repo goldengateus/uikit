@@ -1,0 +1,1 @@
+"use strict";angular.module("uikit",["ui.router","launch"]).config(uikit.config);
